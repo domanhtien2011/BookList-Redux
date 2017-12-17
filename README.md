@@ -19,13 +19,13 @@ The following knowledge learned through this project:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/domanhtien2011/BookList-Redux/blob/master/React-Rdux.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
-Adding later...
+I've understood the basic of Redux and how to connect it to a Reactjs project through this project. However, I think I still need to do another project to fully understand it.
 
 ## License
 
