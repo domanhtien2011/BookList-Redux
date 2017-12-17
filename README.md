@@ -2,19 +2,17 @@
 
 **Booklist** is an app that I write to learn reactjs with redux.
 
-Time spent: **Working on it** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
-The following functionality is completed:
+The following knowledge learned through this project:
 
-- [ ] User can view a list of movies currently playing in theaters.
-- [ ] User can show/hide details about each movie.
-- [ ] User sees loading state while waiting for the API.
-- [ ] User sees an error message when there is a network error.
-- [ ] User can refresh the movie list.
-- [ ] User can search/filter the movie results via a search bar.
-- [ ] User can use the page on both desktop and mobile viewport sizes.
+- [x] What are reducers and how to use them to manage Video and Book States.
+- [x] What is redux and why to use it.
+- [x] What are containers and why to use them.
+- [x] User container to connect with Redux through react-redux package.
+- [x] What is ActionCreator, how to use it, and when to use it.
 
 
 ## Video Walkthrough
